@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 5.0.0-SNAPSHOT
 =======
 4.3.0-BETA2
@@ -51,3 +52,6 @@
 =======
 4.3.5
 >>>>>>> [Releaser] Update release version
+=======
+4.3.6-SNAPSHOT
+>>>>>>> [Releaser] Bump new snapshot version
