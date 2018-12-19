@@ -19,17 +19,6 @@
  * along with Report Portal.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-<<<<<<< HEAD:app/src/common/utils/isEmptyObject.js
 export function isEmptyObject(obj) {
   return Object.keys(obj).length === 0;
 }
-=======
-@import 'login';
-@import 'login-login';
-@import 'login-reset';
-@import 'login-restore';
-@import 'login-login-auth-button';
-@import 'login-versions';
-@import 'login-versions-item';
-@import 'login-demo';
->>>>>>> EPMRPP-35858 UI: Demo instance:src/main/resources/public/scss/loginPage/_main.scss

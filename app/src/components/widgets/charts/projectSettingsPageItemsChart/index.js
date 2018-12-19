@@ -1,0 +1,1 @@
+export { DefectTypesChart } from './projectSettingsPageItemsChart';

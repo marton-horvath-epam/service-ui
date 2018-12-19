@@ -1,0 +1,114 @@
+{
+  "statisticsStrategy": "STEP_BASED",
+  "project": "1111_1111",
+  "subTypes": {
+      "TO_INVESTIGATE": [
+          {
+              "locator": "TI001",
+              "typeRef": "TO_INVESTIGATE",
+              "longName": "To Investigate",
+              "shortName": "TI",
+              "color": "#ffb743"
+          }
+      ],
+      "NO_DEFECT": [
+          {
+              "locator": "ND001",
+              "typeRef": "NO_DEFECT",
+              "longName": "No Defect",
+              "shortName": "ND",
+              "color": "#777777"
+          }
+      ],
+      "AUTOMATION_BUG": [
+          {
+              "locator": "AB001",
+              "typeRef": "AUTOMATION_BUG",
+              "longName": "Automation Bug",
+              "shortName": "AB",
+              "color": "#f7d63e"
+          }
+      ],
+      "PRODUCT_BUG": [
+          {
+              "locator": "PB001",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "Product Bug",
+              "shortName": "PB",
+              "color": "#ec3900"
+          },
+          {
+              "locator": "pb_qeco72k3zzn5",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "PB1",
+              "shortName": "PB1",
+              "color": "#d500f9"
+          },
+          {
+              "locator": "pb_1hbg1ey7twd2v",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "PB_2",
+              "shortName": "PB2",
+              "color": "#b14e2f"
+          },
+          {
+              "locator": "pb_qxtb7jkycraq",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "fgfg",
+              "shortName": "f",
+              "color": "#00b0ff"
+          },
+          {
+              "locator": "pb_1iut831ta96pf",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "ggg",
+              "shortName": "g",
+              "color": "#9e9d24"
+          },
+          {
+              "locator": "pb_rl8em6bmeofs",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "hhh",
+              "shortName": "h",
+              "color": "#651fff"
+          },
+          {
+              "locator": "pb_1huxp7uqj2sdv",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "jjj",
+              "shortName": "j",
+              "color": "#76ff03"
+          },
+          {
+              "locator": "pb_r1ivhbajv142",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "kkk",
+              "shortName": "k",
+              "color": "#ff8f00"
+          },
+          {
+              "locator": "pb_skmtre062ka8",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "lll",
+              "shortName": "l",
+              "color": "#f48fb1"
+          },
+          {
+              "locator": "pb_u7ohnlp8bdbn",
+              "typeRef": "PRODUCT_BUG",
+              "longName": "ééé",
+              "shortName": "é",
+              "color": "#00e5ff"
+          }
+      ],
+      "SYSTEM_ISSUE": [
+          {
+              "locator": "SI001",
+              "typeRef": "SYSTEM_ISSUE",
+              "longName": "System Issue",
+              "shortName": "SI",
+              "color": "#0274d1"
+          }
+      ]
+  }
+}
