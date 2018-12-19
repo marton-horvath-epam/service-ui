@@ -1,1 +1,1 @@
-export { DefectTypesChart } from './projectSettingsPageItemsChart';
+export { ProjectSettingsPageItemsChart } from './projectSettingsPageItemsChart';
